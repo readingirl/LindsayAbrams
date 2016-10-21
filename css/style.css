@@ -1,0 +1,25 @@
+body {
+    background-color: #303030;
+  font-family: 'Montserrat', sans-serif;
+  color: #D0D0D0 
+}
+h1 {
+  font-size: 500%;
+  padding-left: 5%;
+  margin-bottom: 0px;
+}
+h3 {
+  font-size: 200%;
+  padding-left: 28%;
+  margin-top: 0px;
+}
+p {
+  padding-left: 40%;
+  padding-right: 10%;
+}
+a {
+  color: #D0D0D0; 
+}
+#bottom {
+  padding-top: 20%;
+}
