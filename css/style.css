@@ -1,0 +1,17 @@
+body {
+    background-color: #303030;
+  font-family: 'Montserrat', sans-serif;
+  color: #D0D0D0; 
+}
+#first {
+  font-size: 500%;
+  margin-bottom: 0;
+}
+#second {
+  font-size: 350%;
+  margin-top: 0;
+  
+}
+p {
+  font-size: 125%;
+}
