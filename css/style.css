@@ -4,7 +4,7 @@ body {
   color: #D0D0D0; 
 }
 #first {
-  font-size: 6em;
+  font-size: 5.5em;
   margin-bottom: 0;
 }
 #second {
@@ -13,5 +13,5 @@ body {
   
 }
 p {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
