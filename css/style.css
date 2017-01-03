@@ -6,12 +6,23 @@ body {
 #first {
   font-size: 5.5em;
   margin-bottom: 0;
+	
 }
 #second {
-  font-size: 4.5em;
+	color: #23527c;
+  font-size: 3.5em;
   margin-top: 0;
   
 }
+#plain {
+	color: white;
+}
 p {
   font-size: 1.3em;
+	
+}
+small {
+	color: #23527c;
+}
+.top-buffer { margin-top:20px;
 }
