@@ -1,29 +1,49 @@
 body {
-    background-color: #303030;
+    background-color: #343642;
   font-family: 'Montserrat', sans-serif;
-  color: #D0D0D0; 
+  
+}
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  dis
 }
 #first {
   font-size: 5.5em;
   margin-bottom: 0;
+  color: #348899;
 	
 }
 #second {
-	color: #23527c;
+	color: #979C9C;
   font-size: 3.5em;
   margin-top: 0;
   
 }
+#third {
+	color: #348899;
+  font-size: 3.5em;
+  margin-top: 0;
+  
+}
+#plain {
+	color: white;
+}
 p {
   font-size: 1.3em;
+  color: #348899;
+	
+}
+h3 {
+	font-size: 1.6em;
+	color: #348899;
+	
 }
 small {
-	color: #23527c;
+	color: #348899;
 }
 .top-buffer { margin-top:20px;
-<<<<<<< HEAD
-}
-=======
 }
 hr {
 border-top: dotted 5px;
@@ -32,4 +52,3 @@ color: #979C9C;
 a {
 color: #979C9C;
 }
->>>>>>> origin/master
