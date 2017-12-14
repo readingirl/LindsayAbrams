@@ -21,4 +21,15 @@ small {
 	color: #23527c;
 }
 .top-buffer { margin-top:20px;
+<<<<<<< HEAD
 }
+=======
+}
+hr {
+border-top: dotted 5px;
+color: #979C9C;
+}
+a {
+color: #979C9C;
+}
+>>>>>>> origin/master
