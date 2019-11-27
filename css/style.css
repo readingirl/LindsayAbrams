@@ -12,7 +12,7 @@ body {
 #first {
   font-size: 5.5em;
   margin-bottom: 0;
-  color: #348899;
+  color: #088ba6;
 	
 }
 #second {
@@ -22,7 +22,7 @@ body {
   
 }
 #third {
-	color: #348899;
+	color: #088ba6;
   font-size: 3.5em;
   margin-top: 0;
   
@@ -32,23 +32,23 @@ body {
 }
 p {
   font-size: 1.3em;
-  color: #348899;
+  color: #088ba6;
 	
 }
 h3 {
 	font-size: 1.6em;
-	color: #348899;
+	color: #088ba6;
 	
 }
 small {
-	color: #348899;
+	color: #088ba6;
 }
 .top-buffer { margin-top:20px;
 }
 hr {
 border-top: dotted 5px;
-color: #979C9C;
+color: #343642;
 }
 a {
-color: #979C9C;
+color: #343642;
 }
